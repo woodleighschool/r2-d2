@@ -60,18 +60,18 @@
       ]
     },
     {
-      "listitem": "Setup Woodleigh Tools",
+      "listitem": "Woodleigh Tools",
       "icon": "https://r2-d2.woodleigh.vic.edu.au/Icons/Branding.png",
-      "progresstext": "Installing Dockutil, Desktoppr and Branding",
+      "progresstext": "Installing Outset Scripts and SAC Cleanup",
       "trigger_list": [
-        {
-          "trigger": "branding_tools",
-          "validation": "None"
-        },
         {
           "trigger": "outset_scripts",
           "validation": "None"
-        }
+        },
+        {
+			"trigger": "sac_cleanup",
+			"validation": "None"
+		  }
       ]
     },
     {

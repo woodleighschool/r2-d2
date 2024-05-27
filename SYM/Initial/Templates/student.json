@@ -49,14 +49,10 @@
       ]
     },
     {
-      "listitem": "Setup Woodleigh Tools",
+      "listitem": "Woodleigh Tools",
       "icon": "https://r2-d2.woodleigh.vic.edu.au/Icons/Branding.png",
-      "progresstext": "Installing Dockutil, Desktoppr and Branding",
+      "progresstext": "Installing Outset Scripts",
       "trigger_list": [
-        {
-          "trigger": "branding_tools",
-          "validation": "None"
-        },
         {
           "trigger": "outset_scripts",
           "validation": "None"
@@ -64,9 +60,9 @@
       ]
     },
     {
-      "listitem": "Setup Printers",
+      "listitem": "Printers",
       "icon": "https://r2-d2.woodleigh.vic.edu.au/Icons/Printer.png",
-      "progresstext": "Adding Printers",
+      "progresstext": "Installing Printers",
       "trigger_list": [
         {
           "trigger": "printers",
@@ -75,9 +71,9 @@
       ]
     },
     {
-      "listitem": "Company Portal",
+      "listitem": "Microsoft Company Portal",
       "icon": "https://r2-d2.woodleigh.vic.edu.au/Icons/CompanyPortal.png",
-      "progresstext": "Installing Company Portal",
+      "progresstext": "Installing Microsoft Company Portal",
       "trigger_list": [
         {
           "trigger": "microsoft_company_portal",

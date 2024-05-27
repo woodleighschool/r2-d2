@@ -49,7 +49,7 @@
       ]
     },
     {
-      "listitem": "Setup Woodleigh Tools",
+      "listitem": "Woodleigh Tools",
       "icon": "https://r2-d2.woodleigh.vic.edu.au/Icons/Branding.png",
       "progresstext": "Installing Outset Scripts",
       "trigger_list": [
@@ -60,9 +60,9 @@
       ]
     },
     {
-      "listitem": "Setup Printers",
+      "listitem": "Printers",
       "icon": "https://r2-d2.woodleigh.vic.edu.au/Icons/Printer.png",
-      "progresstext": "Adding Printers",
+      "progresstext": "Installing Printers",
       "trigger_list": [
         {
           "trigger": "printers",
@@ -73,7 +73,7 @@
     {
       "listitem": "Company Portal",
       "icon": "https://r2-d2.woodleigh.vic.edu.au/Icons/CompanyPortal.png",
-      "progresstext": "Installing Company Portal",
+      "progresstext": "Installing Microsoft Company Portal",
       "trigger_list": [
         {
           "trigger": "microsoft_company_portal",
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "listitem": "Install XCreds",
+      "listitem": "XCreds",
       "icon": "https://r2-d2.woodleigh.vic.edu.au/Icons/XCreds.png",
       "progresstext": "Installing XCreds",
       "trigger_list": [
