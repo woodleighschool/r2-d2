@@ -54,6 +54,10 @@
       "progresstext": "Installing Outset Scripts",
       "trigger_list": [
         {
+          "trigger": "outset",
+          "validation": "None"
+        },
+        {
           "trigger": "outset_scripts",
           "validation": "None"
         }

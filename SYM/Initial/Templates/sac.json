@@ -65,13 +65,17 @@
       "progresstext": "Installing Outset Scripts and SAC Cleanup",
       "trigger_list": [
         {
+          "trigger": "outset",
+          "validation": "None"
+        },
+        {
           "trigger": "outset_scripts",
           "validation": "None"
         },
         {
-			"trigger": "sac_cleanup",
-			"validation": "None"
-		  }
+          "trigger": "sac_cleanup",
+          "validation": "None"
+        }
       ]
     },
     {
