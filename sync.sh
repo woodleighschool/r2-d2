@@ -8,7 +8,7 @@ r2_bucket="r2-woodleigh:/woodleigh-school"
 cd "$(dirname "$0")"
 
 # Sync the local repository to the R2 bucket, excluding hidden files
-rclone sync "$local_repo" "$r2_bucket" --exclude "/.*" --progress
+rclone sync "$local_repo" "$r2_bucket" --exclude "./.git" --progress
 
 echo "Sync completed successfully."
 
